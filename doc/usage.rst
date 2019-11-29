@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+testing
 
 
 Make
